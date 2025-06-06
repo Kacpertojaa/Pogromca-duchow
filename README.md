@@ -9,7 +9,7 @@ Gracz wciela się w rolę członka zespołu Ghostbusters, specjalnej jednostki d
 ## Jak Uruchomić
 Instrukcje dotyczące tego, jak uruchomić projekt lokalnie na maszynie deweloperskiej.
 
-git clone https://github.com/Kacpertojaa/GhostbustersMobileApp/
+git clone https://github.com/Kacpertojaa/GhostbustersMobileApp/](https://github.com/Kacpertojaa/Pogromca-duchow.git
 
 Kroki:
 
