@@ -1,4 +1,4 @@
-# GhostbustersMobileApp
+# Pogromca duchów
 
 Aplikacja mobilna na platforme android pogromca duchów.
 
